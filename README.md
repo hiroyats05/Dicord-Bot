@@ -51,7 +51,7 @@ por:
 
 ## 💬 Comando Disponível
 
-.traduzir <idioma> <mensagem>
+.traduzir "<idioma>" "<mensagem>"
 
 Exemplo:
 
@@ -75,17 +75,6 @@ Tradução (en): Hello, how are you?
 | ja     | Japonês    |
 
 ⚠️ Use os códigos ISO dos idiomas no comando.
-
----
-
-## 🧠 Dicas
-
-- O bot detecta o idioma de origem automaticamente.
-- Se você digitar um código de idioma inválido, o bot envia um aviso.
-- Nunca compartilhe seu token do bot publicamente.
-- Você pode modificar e adicionar comandos no arquivo `bot.py`.
-
----
 
 ## 👨‍💻 Autor
 
