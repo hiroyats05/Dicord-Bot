@@ -79,8 +79,7 @@ Tradução (en): Hello, how are you?
 ## 👨‍💻 Autor
 
 Criado por: Hiroshi Yatabe  
-GitHub: https://github.com/hiroyats05  
-Data de criação: Julho de 2025  
+GitHub: https://github.com/hiroyats05   
 Finalidade: Aprendizado com bots do Discord e tradução automática.
 
 ---
