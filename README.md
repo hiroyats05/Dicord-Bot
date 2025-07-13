@@ -51,7 +51,7 @@ por:
 
 ## 💬 Comando Disponível
 
-.traduzir "<idioma>" "<mensagem>"
+.traduzir "idioma" "mensagem"
 
 Exemplo:
 
